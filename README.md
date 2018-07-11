@@ -13,3 +13,7 @@ fairly. The software is automated and effectively fast to complete the attendanc
 some special features to focus on the student activities during the whole lecture hour which
 results in better coordination and transparency in the system and academic performance of the
 student. 
+
+<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "350" width="250"/>
