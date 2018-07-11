@@ -17,3 +17,9 @@ student.
 <img src="https://github.com/msarfrazanwar/SmartAttendance-Python/blob/master/bandicam%202018-07-11%2022-54-36-849.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "350" width="250"/>
+
+
+<img src="https://github.com/msarfrazanwar/SmartAttendance-Python/blob/master/bandicam%202018-07-11%2022-55-45-634.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "350" width="250"/>
+
