@@ -14,6 +14,6 @@ some special features to focus on the student activities during the whole lectur
 results in better coordination and transparency in the system and academic performance of the
 student. 
 
-<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png"
+<img src="https://github.com/msarfrazanwar/SmartAttendance-Python/blob/master/bandicam%202018-07-11%2022-54-36-849.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "350" width="250"/>
